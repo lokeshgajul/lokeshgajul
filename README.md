@@ -2,10 +2,10 @@
 
 Email Me 👉 ✉️ **lokeshgajul465@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on: React.js and Node.js
-- 🌱 **I’m currently learning: AI
-- 💬 **Ask me about: React.js 
-- 📫 **How to reach me: lokeshgajul465@gmail.com
+- 🔭 I’m currently working on: React.js and Node.js
+- 🌱 I’m currently learning: AI
+- 💬 Ask me about: React.js 
+- 📫 How to reach me: lokeshgajul465@gmail.com
 
 
 ## 🌐 Socials:
